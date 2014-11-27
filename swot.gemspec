@@ -7779,7 +7779,7 @@ Gem::Specification.new do |s|
     "test/helper.rb",
     "test/test_swot.rb"
   ]
-  s.homepage = "http://github.com/leereilly/swot"
+  s.homepage = "http://github.com/swot-edu/swot.rb"
   s.licenses = ["MIT"]
   s.rubygems_version = "2.4.4"
   s.summary = "email helpers"
