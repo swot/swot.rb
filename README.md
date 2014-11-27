@@ -1,6 +1,6 @@
-# Swot :apple:
+# Swot Ruby Gem :apple:
 
-[![Build Status](https://api.travis-ci.org/leereilly/swot.png)](https://travis-ci.org/leereilly/swot) [![Gem Version](https://badge.fury.io/rb/swot.svg)](http://badge.fury.io/rb/swot)
+[![Build Status](https://travis-ci.org/swot-edu/swot.rb.svg?branch=master)](https://travis-ci.org/swot-edu/swot.rb) [![Gem Version](https://badge.fury.io/rb/swot.svg)](http://badge.fury.io/rb/swot)
 
 Ruby gem for accessing swot dataset – see https://github.com/leereilly/swot for a description.
 
