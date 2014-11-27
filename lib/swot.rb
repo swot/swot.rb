@@ -26,7 +26,7 @@ class Swot < NaughtyOrNice
     alias_method :school_name, :get_institution_name
 
     def domains_path
-      @domains_path ||= File.expand_path "domains", File.dirname(__FILE__)
+      @domains_path ||= File.expand_path "../data/lib/domains", __FILE__
     end
   end
 
