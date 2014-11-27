@@ -21,6 +21,7 @@ Jeweler::Tasks.new do |gem|
   gem.description = %Q{email helpers}
   gem.email = "lee@leereilly.net"
   gem.authors = ["Lee Reilly"]
+  gem.files.include "lib/data/lib/domains/**/*"
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
